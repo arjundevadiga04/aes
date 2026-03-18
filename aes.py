@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Advanced Encryption Tool (AES-256)
-Author: Bhargavi
+Author: Arjun
 Description: Encrypts and decrypts any file type (text, audio, video, images).
 """
 
